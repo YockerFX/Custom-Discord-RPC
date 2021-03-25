@@ -16,3 +16,4 @@ Create an application and upload your 2 desired images to the [Developer Portal]
 [![Images](https://cdn.discordapp.com/attachments/819949207531159592/824550916723179530/Unbenannt.PNG)](https://discord.com/developers/applications)
 
 
+[GitHub All Releases](https://img.shields.io/github/downloads/YockerFX/Custom-Discord-RPC/total)

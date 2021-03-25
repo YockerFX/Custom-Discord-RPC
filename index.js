@@ -7,7 +7,7 @@ activity : {
 details : "Description", //description of the game
 assets : {
 large_image : "image name", //the large image
-large_text : "Yockers Paradise", //text of the text if you click on large image 
+large_text : "Yockers Paradise", //text on the large image 
 small_image : "image name", //the small image
 small_text : "Bot Profile" //text of the small image
 },

@@ -6,7 +6,7 @@ The Discord Custom RPC has 2 buttons that you can define yourself. You can run t
 [![console](https://cdn.discordapp.com/attachments/819949207531159592/824558704375627786/AS.PNG)](https://github.com/YockerFX/Custom-Discord-RPC)
 
 ## Genaral Information
-The comments should explain everything if you still have questions you can write me via discord: "HeuteNicht#7492".
+You can actually edit the code of the index.js file in any code editor. The comments should explain everything if you still have questions you can write me via discord: "HeuteNicht#7492".
 
 [![Comments](https://cdn.discordapp.com/attachments/819949207531159592/824553061803360267/Unbenannt.PNG)](https://github.com/YockerFX/Custom-Discord-RPC/blob/main/index.js)
 

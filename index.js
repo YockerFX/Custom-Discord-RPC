@@ -15,5 +15,5 @@ buttons : [{label : "Button1" , url : "link"},{label : "Button2",url : "link"}]
 } 
 })
 })
-console.log("Custom Discord Rp is online") 
+console.log("© 2020 YockerFX <https://yockerfx.github.io>") 
 client.login({ clientId : "803212587290066954" }).catch(console.error); //"https://discord.com/developers/applications" create an application and paste the client id in the ""
